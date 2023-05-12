@@ -1,0 +1,14 @@
+body{
+    font-family: sans-serif;
+    background: linear-gradient(135.8deg, rgb(26, 26, 29) 27.1%, rgb(111, 34, 50) 77.5%);
+}
+.container{
+    background: linear-gradient(to top, #c4c5c7 0%, #dcdddf 52%, #ebebeb 100%);
+}
+.food{
+    text-align: center;
+}
+.logo{
+    display: block;
+    margin: 0 auto;
+}
